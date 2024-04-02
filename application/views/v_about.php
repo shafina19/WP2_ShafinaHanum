@@ -8,7 +8,7 @@
  <br>
  <h4>Alamat</h4>
  <ul type="none">
- <li> Jalan Ciamis Duren Jaya</li>
+ <li> Jalan Ciamis Duren jaya</li>
  </ul>
  
  <h4>Tempat Lahir</h4>
@@ -17,7 +17,7 @@
  </ul>
  <h4>Olah Raga Favorit</h4>
  <ul type="square">
- <li>Berenang</li>
  <li>Voli</li>
+ <li>Renang</li>
  </ul>
 </section>
